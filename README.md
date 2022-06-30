@@ -1,6 +1,6 @@
 # Chuckle Brothers BnB
 
-| [Contributors](#contributors) | [Product Description](#product-description) | [Demo](#demo) | [Technologies used](#technologies-used) | [How to run locally](#how-to-run-locally) | [Card wall](#card-wall) | [Wireframes](#Wireframes) | [Team approach](#team-approach) | [User Stories](#user-stories) | [MVP](#mvp) | [MVP](#mvp) | [Edge cases](#edge-cases) | [Future integration](#future-integration) |
+| [Contributors](#contributors) | [Product Description](#product-description) | [Demo](#demo) | [Technologies used](#technologies-used) | [How to run locally](#how-to-run-locally) | [Card wall](#card-wall) | [Wireframes](#Wireframes) | [Team approach](#team-approach) | [User Stories](#user-stories) | [Minimum viable product](#minimum-viable-product-mvp) | [Edge cases](#edge-cases) | [Future integration](#future-integration) |
 
 ## Contributors
 
@@ -170,7 +170,7 @@ So that I can keep my password private
 I want it to be hashed when it's stored with ChuckleH
 ```
 
-## MVP
+## Minimum viable product (MVP)
 * User can sign up, log in and log out
 * User can view an available space
 * User can view an available space's details
