@@ -25,7 +25,7 @@ _!!!_________!!!___|_____|_ %%%%%%%%%%%%%%%%%%%% _|_____|___|____-____|_
 
 ```
 
-# Chuckle Brothers BnB
+# Chuckle Hotel
 
 | [Contributors](#contributors) | [Product Description](#product-description) | [Demo](#demo) | [Technologies used](#technologies-used) | [How to run locally](#how-to-run-locally) | [Card wall](#card-wall) | [Wireframes](#Wireframes) | [Team approach](#team-approach) | [User Stories](#user-stories) | [Minimum viable product](#minimum-viable-product-mvp) | [Edge cases](#edge-cases) | [Future integration](#future-integration) |
 
@@ -37,7 +37,7 @@ _!!!_________!!!___|_____|_ %%%%%%%%%%%%%%%%%%%% _|_____|___|____-____|_
 - [Simon Tinsley](https://github.com/sjtinsley)
 
 ## Project Description
-First engineering group project during Week 5 of the Makers hybrid course, we were tasked with developing an [AirBnB](https://www.airbnb.co.uk/) clone, known as Chuckle Hotel BnB (name our own choice). Within a team of 4 developers, we created this version that we're proud to present. The background of the page is a dynamic movement that changes between different shades of purple/violet. This could not be previewed in this document unfortunately.
+First engineering group project during Week 5 of the Makers hybrid course, we were tasked with developing an [AirBnB](https://www.airbnb.co.uk/) clone, known as Chuckle Hotel (name our own choice). Within a team of 4 developers, we created this version that we're proud to present. The background of the page is a dynamic movement that changes between different shades of purple/violet. This could not be previewed in this document unfortunately.
 
 ## Demo
 ### Home page
@@ -194,7 +194,7 @@ I want to be able to create a space from my own account
 ```
 As a user
 So that I can keep my password private
-I want it to be hashed when it's stored with ChuckleH
+I want it to be hashed when it's stored with Chuckle Hotel
 ```
 
 ## Minimum viable product (MVP)
