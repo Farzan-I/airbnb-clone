@@ -1,7 +1,8 @@
 # Chuckle Brothers BnB
 
+| [Contributors](#contributors) | [Product Description](#product-description) | [Demo](#demo) | [Technologies used](#technologies-used) | [How to run locally](#how-to-run-locally) | [Card wall](#card-wall) | [Wireframes](#Wireframes) | [Team approach](#team-approach) | [User Stories](#user-stories) | [MVP](#mvp) | [MVP](#mvp) | [Edge cases](#edge-cases) | [Future integration](#future-integration) |
+
 ## Contributors
--------
 
 - [Farzan Imanzadeh](https://github.com/Farzan-I)
 - [George Dainton](https://github.com/GeorgeDainton)
@@ -9,11 +10,9 @@
 - [Simon Tinsley](https://github.com/sjtinsley)
 
 ## Project Description
--------
 First engineering group project during Week 5 of the Makers hybrid course, we were tasked with developing an [AirBnB]() clone, known as Chuckle Hotel BnB (name our own choice). Within a team of 4 developers we developed this version that we're proud to present.
 
 ## Demo
--------
 ### Home page
 ![home](public/images/home_page.png)
 
@@ -54,8 +53,6 @@ First engineering group project during Week 5 of the Makers hybrid course, we we
 ![error_message](public/images/error_message.png)
 
 ## Technologies Used
-------
-
 - [Ruby](https://ruby-lang.org/en/) web framework.
 - [Sinatra](https://sinatrarb.com/) creating web applications using Ruby.
 - [PostgreSQL](https://www.postgresql.org/) to store our data.
@@ -67,7 +64,6 @@ First engineering group project during Week 5 of the Makers hybrid course, we we
 - [Trello](https://trello.com/en) for assigning tickets within the team.
 
 ## How to run locally
--------
 ### Set-up Project
 1. Run `bundle`
 2. Set-up database using `psql` in command line
@@ -80,11 +76,9 @@ First engineering group project during Week 5 of the Makers hybrid course, we we
 2. Open a browser window and type `localhost:9292` to access the home page
 
 ## Card wall
---------
 We used a [Trello](https://trello.com/b/uYu4xPta/project-board) board to keep track of the features we want to implement. We organised tickets amongst the team and moved the tickets accordingly to demonstrate at what stage that feature's at (To do/In progress/In review etc.).
 
 ## Wireframes
--------
 ### Home page concept
 ![Wireframe 1](public/images/wire_log_in.png)
 ### View a space concept
@@ -103,7 +97,6 @@ We used a [Trello](https://trello.com/b/uYu4xPta/project-board) board to keep tr
 ![Wireframe 6](public/images/wire_book_only_avail_dates.png)
 
 ## Team approach
----------
 * Standups every morning at 10:00am
 * Retro at 5:30pm every evening
 * Pair programming throughout the entire project (driver/navigator roles)
@@ -111,7 +104,6 @@ We used a [Trello](https://trello.com/b/uYu4xPta/project-board) board to keep tr
 * Trello board for distributing work and staying on track
 
 ## User Stories
--------
 ### Login/out
 ```
 As a user
@@ -179,7 +171,6 @@ I want it to be hashed when it's stored with ChuckleH
 ```
 
 ## MVP
-------
 * User can sign up, log in and log out
 * User can view an available space
 * User can view an available space's details
@@ -187,13 +178,11 @@ I want it to be hashed when it's stored with ChuckleH
 * User can request to hire a space
 
 ## Edge cases
--------
 * Sign up with invalid input
 * Sign in with invalid input
 * Try to access spaces page when logged out
 
-## Future improvements
---------
+## Future integration
 * User cannot sign up with an already used email
 * Spaces can have a picture uploaded to them to show what a user can book
 * User can only book available dates (user story below)
