@@ -10,7 +10,7 @@
 - [Simon Tinsley](https://github.com/sjtinsley)
 
 ## Project Description
-First engineering group project during Week 5 of the Makers hybrid course, we were tasked with developing an [AirBnB]() clone, known as Chuckle Hotel BnB (name our own choice). Within a team of 4 developers we developed this version that we're proud to present.
+First engineering group project during Week 5 of the Makers hybrid course, we were tasked with developing an [AirBnB](https://www.airbnb.co.uk/) clone, known as Chuckle Hotel BnB (name our own choice). Within a team of 4 developers we developed this version that we're proud to present.
 
 ## Demo
 ### Home page
